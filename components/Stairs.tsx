@@ -1,6 +1,5 @@
 
 import { motion } from "framer-motion";
-import StairTransition from "./StairTransition";
 
 const stairAnimation = {
   initial: {

@@ -1,6 +1,5 @@
 "use client";
 
-import { title } from 'process';
 import { FaHtml5, FaCss3, FaJs, FaReact, FaFigma, FaNodeJs } from 'react-icons/fa';
 import { SiNextdotjs, SiTailwindcss } from 'react-icons/si';
 
